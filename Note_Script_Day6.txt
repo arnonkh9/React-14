@@ -1,0 +1,33 @@
+
+-----------------------------------------------------------------
+ขึ้นโปรเจ็กต์ Material UI (MUI)
+-----------------------------------------------------------------
+Step 1: คำสั่งในการขึ้นโปรเจ็กต์ Next.JS 14
+---
+npx create-next-app@14.1.4
+
+✔ What is your project named? …next-store-app
+✔ Would you like to use TypeScript? … Yes
+✔ Would you like to use ESLint? …  Yes
+✔ Would you like to use Tailwind CSS? … Yes
+✔ Would you like to use `src/` directory? … Yes
+✔ Would you like to use App Router? (recommended) … Yes
+✔ Would you like to customize the default import alias (@/*)? … No
+
+Step 2: ติดตั้ง Library สำหรับการทำ UI ด้วย MUI
+---
+npm i @emotion/cache@11.11.0
+npm i @emotion/react@11.11.3
+npm i @emotion/styled@11.11.0
+npm i @fontsource/roboto@5.0.8
+npm i @mui/icons-material@5.15.11
+npm i @mui/material@5.15.11
+npm i @mui/material-nextjs@5.15.11
+
+
+
+
+
+
+
+
